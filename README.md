@@ -1,5 +1,5 @@
 # JavaFX
-This programm you can write java code and compile it and see the out put in the dialog.
+This programm you can write java code and compile it and see the output in the dialog.
 
 ![image](https://user-images.githubusercontent.com/26528762/146687859-1de056ac-b2c9-4e33-8921-fe57ed9ea308.png)
 
